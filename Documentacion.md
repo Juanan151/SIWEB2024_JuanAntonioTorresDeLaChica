@@ -41,9 +41,9 @@
 
 Metodología: 
   1. Una primera etapa de planificación(febrero):
-  1. Haremos una investigación sobre el interés del público sobre estos sitios web. 
-  2. Plantearemos una serie de preguntas para la investigación a un profesional muy dentro de este campo.
-  3. Analizaremos la usabilidad de unos de los sitios web de otra editorial
+  1.1 Haremos una investigación sobre el interés del público sobre estos sitios web. 
+  1.2. Plantearemos una serie de preguntas para la investigación a un profesional muy dentro de este campo.
+  1.3. Analizaremos la usabilidad de unos de los sitios web de otra editorial
 
 [Participantes: ]
 
