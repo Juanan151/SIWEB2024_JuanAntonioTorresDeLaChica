@@ -56,4 +56,4 @@
     - 20/02/2024: Entrevista con los lectores.
     - 27/02/2024: Entrevista y preguntas de investigación al profesional.
 
-[Guión: "por determinar".]
+- Guión: "por determinar".
