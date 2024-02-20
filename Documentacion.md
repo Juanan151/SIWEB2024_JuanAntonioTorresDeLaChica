@@ -39,14 +39,17 @@
   7. ¿En qué crees que afecta tener sitio web?
   8. ¿Qué información esperas encontrar al entrar en estos?
 
-Metodología: 
+- Metodología: 
   1. Una primera etapa de planificación(febrero):
-  1.1 Haremos una investigación sobre el interés del público sobre estos sitios web. 
-  1.2. Plantearemos una serie de preguntas para la investigación a un profesional muy dentro de este campo.
-  1.3. Analizaremos la usabilidad de unos de los sitios web de otra editorial
+     -  Haremos una investigación sobre el interés del público sobre estos sitios web. 
+     - Plantearemos una serie de preguntas para la investigación a un profesional muy dentro de este campo.
+     - Analizaremos la usabilidad de unos de los sitios web de otra editorial.
+  2. Diseño(marzo):
 
-[Participantes: ]
+- Participantes:
+  - Lectores: Es de crucial importante la opinión del lector quien dedice si el sitio cumple su objetivo. [Enlace formulario]
+  - Profesionales de la industria: Su alta experiencia nos ayudará a darle una mayor profesionalidad al proyecto. [Enlace formulario]
 
-[Planificación: ]
+- Planificación:
 
 [Guión: "por determinar".]
