@@ -1,13 +1,16 @@
 # PROYECTO DE PRÁCTICAS
 **Alumno:** Juan Antonio Torres De La Chica (jatc0011@red.ujaen.es)
+
 **Asignaturas:** 
   - Sistemas de la Información basados en Web
   - Sistemas de la Información para el Negocio Electrónico
   - Bases de Datos Distribuidas
+
 **Profesores:**
   - Lina Guadalupe García Cabrera - (SIWEB)
   - Carlos J. Ogayar Anguita - (SINE)
   - Carmen Martínez Cruz - (BBDDDD)
+
 **Universidad de Jaén - 2024**
 ---
 ## PLANIFICACIÓN
