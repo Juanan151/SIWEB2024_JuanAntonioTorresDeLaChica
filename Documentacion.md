@@ -58,7 +58,7 @@
 
 - Guión: "por determinar".
 
-#### Evaluación Heurística
+#### EVALUACIÓN HEURÍSTICA
 - [Milky Way Ediciones](https://www.milkywayediciones.com/):
 
 El sitio web de la editorial ofrece al entrar en la página oficial un vistazo instantáneo al nombre del sitio "Milky Way Ediciones" y podemos apreciar que trata sobre sus obras literarias licenciadas. En la parte superior vemos que nos encontramos en la sección *Home* y que podemos movernos entre novedades, la tienda, el blog, etc. Este es el método principal de navegación junto con el buscador de libros.
@@ -67,4 +67,5 @@ El sitio web de la editorial ofrece al entrar en la página oficial un vistazo i
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
   - Aspectos generales:
+- I
     
