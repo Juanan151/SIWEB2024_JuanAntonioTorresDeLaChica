@@ -66,6 +66,7 @@ El sitio web de la editorial ofrece al entrar en la página oficial un vistazo i
 ![Sitio Web Oficial de Milky Way Ediciones](/imagenes/mke.png)
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
-    - Aspectos generales:
-    - I
+-
+  - Aspectos generales:
+  - I
     
