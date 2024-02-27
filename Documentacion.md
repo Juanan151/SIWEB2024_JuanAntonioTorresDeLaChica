@@ -57,3 +57,8 @@
     - 27/02/2024: Entrevista y preguntas de investigación al profesional.
 
 - Guión: "por determinar".
+
+#### Evaluación Heurística
+- Milky Way Ediciones:
+El sitio web de la editorial ofrece al entrar en la página oficial un vistazo instantáneo al nombre del sitio "Milky Way Ediciones" y podemos apreciar que trata sobre sus obras literarias licenciadas. En la parte superior vemos que nos encontramos en la sección *Home* y que podemos movernos entre novedades, la tienda, el blog, etc. Este es el método principal de navegación junto con el buscador de libros.
+[Sitio Web Oficial de Milky Way Ediciones]()
