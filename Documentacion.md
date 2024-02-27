@@ -21,7 +21,7 @@
 
 - Partes Interesadas: El proyecto lo financia la editorial que nos ha contratado.
 
-- Fecha: 20/02/2024]
+- Fecha: 20/02/2024
 
 - Antecedentes: Se ha impulsado este proyecto con el motivo de darse a conocer al público. Es una nueva editorial, por lo que no es muy conocida actualmente, han decidido abrir un sitio web para poder enseñar su catálogo de libros, ya que van a publicitarse por otros medios.
 
@@ -66,6 +66,6 @@ El sitio web de la editorial ofrece al entrar en la página oficial un vistazo i
 ![Sitio Web Oficial de Milky Way Ediciones](/imagenes/mke.png)
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
-  - Aspectos generales:
-- I
+    - Aspectos generales:
+    - I
     
