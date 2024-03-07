@@ -68,7 +68,7 @@ El sitio web de la editorial ofrece al entrar en la página oficial un vistazo i
 ![Sitio Web Oficial de Milky Way Ediciones](/imagenes/mke.png)
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
-  - Aspectos generales: El sitio Web cumple su objectivo principal de presentar las obras licenciadas de la editorial y darlas a conocer al público. Es fácilmente identificable que se trata del sitio de esta editorial en concreto, al tener su nombre en la barra de navegación y un enlace URL muy bien definido. Quizás el `banner` dinámico de las obras principales que se visualiza nada mas entrar es demasiado grande.
+  - Aspectos generales: El sitio Web cumple su objectivo principal de presentar las obras licenciadas de la editorial y darlas a conocer al público. Es fácilmente identificable que se trata del sitio de esta editorial en concreto, al tener su nombre en la barra de navegación y un enlace URL muy bien definido. Quizás el *banner* dinámico de las obras principales que se visualiza nada mas entrar es demasiado grande.
   - Identidad e Información:
   - Lenguaje y redacción:
   - Rotulado:
