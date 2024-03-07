@@ -21,7 +21,7 @@
 
 - Partes Interesadas: El proyecto lo financia la editorial que nos ha contratado.
 
-- Fecha: 20/02/2024
+- Fecha: 29/02/2024
 
 - Antecedentes: Se ha impulsado este proyecto con el motivo de darse a conocer al público. Es una nueva editorial, por lo que no es muy conocida actualmente, han decidido abrir un sitio web para poder enseñar su catálogo de libros, ya que van a publicitarse por otros medios.
 
@@ -55,18 +55,28 @@
     - 13/02/2024: Fase preliminar terminada.
     - 20/02/2024: Entrevista con los lectores.
     - 27/02/2024: Entrevista y preguntas de investigación al profesional.
+    - 28/02/2024: Evaluación heurística.
+    - 29/02/2024: Anteproyecto.
 
 - Guión: "por determinar".
 
 #### EVALUACIÓN HEURÍSTICA
-- [Milky Way Ediciones](https://www.milkywayediciones.com/):
+1. [Milky Way Ediciones](https://www.milkywayediciones.com/):
 
 El sitio web de la editorial ofrece al entrar en la página oficial un vistazo instantáneo al nombre del sitio "Milky Way Ediciones" y podemos apreciar que trata sobre sus obras literarias licenciadas. En la parte superior vemos que nos encontramos en la sección *Home* y que podemos movernos entre novedades, la tienda, el blog, etc. Este es el método principal de navegación junto con el buscador de libros.
 
 ![Sitio Web Oficial de Milky Way Ediciones](/imagenes/mke.png)
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
--
   - Aspectos generales:
-  - I
+  - Identidad e Información:
+  - Lenguaje y redacción:
+  - Rotulado:
+  - Estructura y Navegación:
+  - Lay-out de la página:
+  - Búsqueda:
+  - Elementos multimedia:
+  - Ayuda:
+  - Accesibilidad:
+  - Control y retroalimentación:
     
