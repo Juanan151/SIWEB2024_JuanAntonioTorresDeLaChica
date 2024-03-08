@@ -16,6 +16,7 @@
 ---
 ## SIWEB
 ### PLANIFICACIÓN
+---
 #### PLAN DE INVESTIGACIÓN
 - **Título**: “NuevaEditorial.com Catálogo 2023/24 para lectores y contacto para librerías” realizado por Juan Antonio Torres De La Chica, estudiante contratado, jatc0011@red.ujaen.es
 
@@ -59,7 +60,7 @@
     - 29/02/2024: Anteproyecto.
 
 - **Guión**: "por determinar".
-
+---
 #### EVALUACIÓN HEURÍSTICA
 1. [Milky Way Ediciones](https://www.milkywayediciones.com/):
 
