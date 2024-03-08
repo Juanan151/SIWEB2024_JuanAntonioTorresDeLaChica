@@ -68,15 +68,15 @@ El sitio web de la editorial ofrece al entrar en la página oficial un vistazo i
 ![Sitio Web Oficial de Milky Way Ediciones](/imagenes/mke.png)
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
-  - Aspectos generales: El sitio Web cumple su objectivo principal de presentar las obras licenciadas de la editorial y darlas a conocer al público. Es fácilmente identificable que se trata del sitio de esta editorial en concreto, al tener su nombre en la barra de navegación y un enlace URL muy bien definido. Quizás el *banner* dinámico de las obras principales que se visualiza nada mas entrar es demasiado grande.
-  - Identidad e Información: Al navegar por todo el sitio web siempre es visible el nombre de la empresa en la parte superior; por lo tanto, es totalmente identificable de quien es el sitio. Se proporciona información detallada sobre todas las obras(autor, fecha de publicación, ISBN, etc) y, además, una sección sobre información de la empresa y contacto con ellos.
-  - Lenguaje y redacción: Es una editorial que solo distribuye en España; por tanto, solo es encuentra en español. La cantidad de párrafos es limitada, ya que sobretodo son sipnosis de libros. Se puede afirmar que un párrafo es una idea.
-  - Rotulado: Es bastante claro que se está leyendo. Las etiquetas están bien definidas, siguen siempre el mismo estilo y planificación, y se nota que hay una estructura única sobre todo el sitio web.
-  - Estructura y Navegación: Se puede navegar tanto en anchura a través de la barra superior que contiene las secciones como por profundidad una dentro de una sección indagando esta misma. Siempre se puede saber donde te encuentras fácilmente a través del contenido. No he encontrando ningún enlace vacío, y debido a que se trata de una tienda los enlaces en imágenes son intuitivos. Los enlaces son claros, pero no se proporciona una herramienta para saber que enlaces se han visitado ya.
-  - Lay-out de la página: El sitio aprovecha las zonas más visibles para colocar las cosas más relevantes como nuevas obras. No hay ruido al ver el sitio y no hay sobrecarga de información. No se puede bajar de forma indefinida por las páginas.
-  - Búsqueda:
-  - Elementos multimedia:
-  - Ayuda:
-  - Accesibilidad:
-  - Control y retroalimentación:
+  - **Aspectos generales**: El sitio Web cumple su objectivo principal de presentar las obras licenciadas de la editorial y darlas a conocer al público. Es fácilmente identificable que se trata del sitio de esta editorial en concreto, al tener su nombre en la barra de navegación y un enlace URL muy bien definido. Quizás el *banner* dinámico de las obras principales que se visualiza nada mas entrar es demasiado grande.
+  - **Identidad e Información**: Al navegar por todo el sitio web siempre es visible el nombre de la empresa en la parte superior; por lo tanto, es totalmente identificable de quien es el sitio. Se proporciona información detallada sobre todas las obras(autor, fecha de publicación, ISBN, etc) y, además, una sección sobre información de la empresa y contacto con ellos.
+  - **Lenguaje y redacción**: Es una editorial que solo distribuye en España; por tanto, solo es encuentra en español. La cantidad de párrafos es limitada, ya que sobretodo son sipnosis de libros. Se puede afirmar que un párrafo es una idea.
+  - **Rotulado**: Es bastante claro que se está leyendo. Las etiquetas están bien definidas, siguen siempre el mismo estilo y planificación, y se nota que hay una estructura única sobre todo el sitio web.
+  - **Estructura y Navegación**: Se puede navegar tanto en anchura a través de la barra superior que contiene las secciones como por profundidad una dentro de una sección indagando esta misma. Siempre se puede saber donde te encuentras fácilmente a través del contenido. No he encontrando ningún enlace vacío, y debido a que se trata de una tienda los enlaces en imágenes son intuitivos. Los enlaces son claros, pero no se proporciona una herramienta para saber que enlaces se han visitado ya.
+  - **Lay-out de la página**: El sitio aprovecha las zonas más visibles para colocar las cosas más relevantes como nuevas obras. No hay ruido al ver el sitio y no hay sobrecarga de información. No se puede bajar de forma indefinida por las páginas.
+  - **Búsqueda**:
+  - **Elementos multimedia**:
+  - **Ayuda**:
+  - **Accesibilidad**:
+  - **Control y retroalimentación**:
     
