@@ -92,3 +92,16 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
 El sitio web ofrece al entrar un visualización de su sistema de navegación junto con el nombre de la editorial "Ivrea" y se aprecia que debe tratarse de una editorial ya que hay palabras como "publicaciones" presentes. Todo el sistema de navegación es el que ya se puede ver al entrar, al principio nos encontramos en la sección *Home*.
 
 ![Sitio Web Oficial de Ivrea Ediciones](/imagenes/iv.png)
+
+Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
+  - **Aspectos generales**: El sitio web logra eficazmente su propósito de exponer y promocionar las obras publicadas por la editorial, con una identificación clara gracias a su nombre prominente en la barra de navegación y una URL distintiva.
+  - **Identidad e Información**: La identidad de la editorial se mantiene visible constantemente en el encabezado del sitio, facilitando el reconocimiento de la marca. Se ofrece una descripción exhaustiva de cada obra (incluyendo autor, fecha de publicación, ISBN, etc.), así como datos sobre la editorial y opciones de contacto.
+  - **Lenguaje y redacción**: Dado que la editorial distribuye exclusivamente en España, el contenido está únicamente en español. La redacción es concisa, enfocándose principalmente en resúmenes de libros, lo que permite afirmar que cada párrafo representa una idea clara.
+  - **Rotulado**: La lectura del sitio es intuitiva. Las categorías están uniformemente estilizadas y organizadas, evidenciando una estructuración coherente a través de toda la plataforma.
+  - **Estructura y Navegación**: La navegación es versátil, permitiendo exploración tanto horizontal mediante la barra de menú como vertical dentro de las secciones. La ubicación dentro del sitio es fácilmente identificable gracias a la disposición de los contenidos. Todos los enlaces funcionan correctamente, con las imágenes vinculadas ofreciendo un acceso intuitivo, aunque no hay indicación de los enlaces previamente visitados.
+  - **Lay-out de la página**: El diseño prioriza la visibilidad de los elementos más importantes, como lanzamientos recientes, manteniendo un entorno visual limpio y libre de distracciones. No se permite el desplazamiento infinito por las páginas.
+  - **Búsqueda**: El mecanismo de búsqueda es fácil de encontrar y adecuado para su propósito, con capacidad para realizar consultas complejas tras una exploración detallada.
+  - **Elementos multimedia**: Aunque predominan las imágenes, sin incluir videos u otros medios. La imagen principal podría considerarse desproporcionadamente grande, pero el resto están bien dimensionadas y editadas.
+  - **Ayuda**: Esta sección no se encuentra disponible, aunque no parece ser necesaria.
+  - **Accesibilidad**: El diseño asegura un contraste óptimo y legibilidad universal, con tipografías y tamaños de letra pensados para ser accesibles a un amplio rango de edades. No requiere instalaciones adicionales y es compatible con diversos dispositivos y navegadores.
+  - **Control y retroalimentación**: La interacción con el sitio es intuitiva y coherente, ofreciendo una experiencia de usuario clara y eficiente con tiempos de carga aceptables.
