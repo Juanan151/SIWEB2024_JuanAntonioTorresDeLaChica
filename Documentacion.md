@@ -69,10 +69,10 @@ El sitio web de la editorial ofrece al entrar en la página oficial un vistazo i
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
   - Aspectos generales: El sitio Web cumple su objectivo principal de presentar las obras licenciadas de la editorial y darlas a conocer al público. Es fácilmente identificable que se trata del sitio de esta editorial en concreto, al tener su nombre en la barra de navegación y un enlace URL muy bien definido. Quizás el *banner* dinámico de las obras principales que se visualiza nada mas entrar es demasiado grande.
-  - Identidad e Información:
-  - Lenguaje y redacción:
-  - Rotulado:
-  - Estructura y Navegación:
+  - Identidad e Información: Al navegar por todo el sitio web siempre es visible el nombre de la empresa en la parte superior; por lo tanto, es totalmente identificable de quien es el sitio. Se proporciona información detallada sobre todas las obras(autor, fecha de publicación, ISBN, etc) y, además, una sección sobre información de la empresa y contacto con ellos.
+  - Lenguaje y redacción: Es una editorial que solo distribuye en España; por tanto, solo es encuentra en español. La cantidad de párrafos es limitada, ya que sobretodo son sipnosis de libros. Se puede afirmar que un párrafo es una idea.
+  - Rotulado: Es bastante claro que se está leyendo. Las etiquetas están bien definidas, siguen siempre el mismo estilo y planificación, y se nota que hay una estructura única sobre todo el sitio web.
+  - Estructura y Navegación: 
   - Lay-out de la página:
   - Búsqueda:
   - Elementos multimedia:
