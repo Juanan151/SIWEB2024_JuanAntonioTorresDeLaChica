@@ -68,7 +68,7 @@
 
 #### EVALUACIÓN HEURÍSTICA
 
-1. [Milky Way Ediciones](https://www.milkywayediciones.com/):
+##### [Milky Way Ediciones](https://www.milkywayediciones.com/):
 
 El sitio web de la editorial ofrece al entrar en la página oficial un vistazo instantáneo al nombre del sitio "Milky Way Ediciones" y podemos apreciar que trata sobre sus obras literarias licenciadas. En la parte superior vemos que nos encontramos en la sección *Home* y que podemos movernos entre novedades, la tienda, el blog, etc. Este es el método principal de navegación junto con el buscador de libros.
 
@@ -87,7 +87,7 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Accesibilidad**: Hay un buen contraste entre los colores, por lo que es fácilmente legible. El tamaño del fuente es adecuado a todas las edades e inlusive la tipografía es agradable a la vista. No es necesario la instalación de nada y se puede acceder desde cualquier dispositivo y navegador.
   - **Control y retroalimentación**: El usuario puede interaccionar con todo lo que se intuye que se puede interaccionar, esto ayuda a saber siempre lo que está pasando en el sitio. Los tiempo de respuesta son razonables.
 
-2. [Editorial Ivrea](http://editorialivrea.com/ESP/):
+##### [Editorial Ivrea](http://editorialivrea.com/ESP/):
 
 El sitio web ofrece al entrar un visualización de su sistema de navegación junto con el nombre de la editorial "Ivrea" y se aprecia que debe tratarse de una editorial ya que hay palabras como "publicaciones" presentes. Todo el sistema de navegación es el que ya se puede ver al entrar, al principio nos encontramos en la sección *Home*.
 
