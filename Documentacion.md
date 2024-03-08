@@ -83,4 +83,4 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
 2. [Editorial Ivrea](http://editorialivrea.com/ESP/)
 El sitio web ofrece al entrar un visualización de su sistema de navegación junto con el nombre de la editorial "Ivrea" y se aprecia que debe tratarse de una editorial ya que hay palabras como "publicaciones" presentes. Todo el sistema de navegación es el que ya se puede ver al entrar, al principio nos encontramos en la sección *Home*.
 
-![Sitio Web Oficial de Ivrea Ediciones]()
+![Sitio Web Oficial de Ivrea Ediciones](/imagenes/iv.png)
