@@ -110,4 +110,4 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
 
 Al ingresar al sitio se ve claramente el logo y nombre "Norma Editorial" y cumple su objetivo de mostrar sus obras literarias ya que lo primero que se logra ver. Su sistema de navegación también es identificable.
 
-![Sitio Web Oficial de Norma Editorial](/imagenenes/ne.png)
+![Sitio Web Oficial de Norma Editorial](/imagenes/ne.png)
