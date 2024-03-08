@@ -13,7 +13,6 @@
 
 **Universidad de Jaén - 2024**
 
----
 ## SIWEB
 ### PLANIFICACIÓN
 ---
@@ -82,4 +81,6 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Control y retroalimentación**: El usuario puede interaccionar con todo lo que se intuye que se puede interaccionar, esto ayuda a saber siempre lo que está pasando en el sitio. Los tiempo de respuesta son razonables.
 
 2. [Editorial Ivrea](http://editorialivrea.com/ESP/)
-    
+El sitio web ofrece al entrar un visualización de su sistema de navegación junto con el nombre de la editorial "Ivrea" y se aprecia que debe tratarse de una editorial ya que hay palabras como "publicaciones" presentes. Todo el sistema de navegación es el que ya se puede ver al entrar, al principio nos encontramos en la sección *Home*.
+
+![Sitio Web Oficial de Ivrea Ediciones]()
