@@ -115,12 +115,12 @@ Al ingresar al sitio se ve claramente el logo y nombre "Norma Editorial" y cumpl
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
   - **Aspectos generales**: El sitio web cumple el objetivo de dejar claro su función de dar a promocionar las obras de la editorial, el visitante no se queda con una impresión confusa. La URL se distingue con facilidad. Un look and feel bastante agradable.
   - **Identidad e Información**: Es uno de las mejores sitio web de esta industria dentro de España. Proporciona información detallada sobre las obras. Además, de datos sobre la editorial e información de contacto.
-  - **Lenguaje y redacción**: 
-  - **Rotulado**: 
-  - **Estructura y Navegación**: 
-  - **Lay-out de la página**: 
-  - **Búsqueda**: 
-  - **Elementos multimedia**:
-  - **Ayuda**: 
-  - **Accesibilidad**: 
-  - **Control y retroalimentación**:
+  - **Lenguaje y redacción**: El idioma del sitio es únicamente español,aunque algunos libros se encuentran en catalán. Hay párrafos con ideas claras en su mayoría.
+  - **Rotulado**: La navegación por la página es clara y directa. Se observa una organización y estilización homogénea de las categorías, mostrando una estructura lógica en toda la interfaz.
+  - **Estructura y Navegación**: Ofrece una navegación flexible, facilitando la exploración a través de un menú horizontal y desplazamiento vertical por las diferentes secciones. La orientación dentro del sitio es sencilla debido a la organización de los contenidos. Los enlaces están en perfecto estado, y las imágenes enlazadas proporcionan acceso de forma intuitiva, aunque no se distinguen los enlaces que ya han sido visitados.
+  - **Lay-out de la página**: El diseño se enfoca en resaltar los componentes clave, como novedades, manteniendo un ambiente visual ordenado y sin elementos que distraigan. El sitio evita el scroll infinito.
+  - **Búsqueda**: El sistema de búsqueda es accesible y cumple bien su función, permitiendo realizar búsquedas detalladas y complejas.
+  - **Elementos multimedia**: Predominan las imágenes, excluyendo el uso de videos o otros tipos de medios. Se percibe un exceso de imágenes en determinadas áreas, como en el calendario de lanzamientos.
+  - **Ayuda**: No se dispone de una sección de ayuda, pero su ausencia no parece ser un inconveniente.
+  - **Accesibilidad**: Se ha diseñado pensando en una legibilidad y contraste adecuados, con fuentes y tamaños de letra que buscan ser accesibles para un espectro amplio de usuarios. No es necesario realizar ninguna instalación adicional y funciona en una variedad de dispositivos y navegadores.
+  - **Control y retroalimentación**: La interacción con el sitio web es intuitiva y uniforme, ofreciendo una navegación clara y efectiva con tiempos de carga razonables.**:
