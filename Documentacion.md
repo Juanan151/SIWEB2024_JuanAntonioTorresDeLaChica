@@ -123,4 +123,17 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Elementos multimedia**: Predominan las imágenes, excluyendo el uso de videos o otros tipos de medios. 
   - **Ayuda**: Este sitio si disponible de una sección de FYQs para solucionar las dudas frecuentes de los visitantes del sitio.
   - **Accesibilidad**: Se ha diseñado pensando en una legibilidad y contraste adecuados, con fuentes y tamaños de letra que buscan ser accesibles para un espectro amplio de usuarios. No es necesario realizar ninguna instalación adicional y funciona en una variedad de dispositivos y navegadores.
-  - **Control y retroalimentación**: La interacción con el sitio web es intuitiva y uniforme, ofreciendo una navegación clara y efectiva con tiempos de carga razonables.**:
+  - **Control y retroalimentación**: La interacción con el sitio web es intuitiva y uniforme, ofreciendo una navegación clara y efectiva con tiempos de carga razonables.
+
+### ANTEPROYECTO
+
+- Titulo, 
+- Breve descripción del proyecto, 
+- Breve descripción de la organización o institución, 
+- Tipo de proyecto, 
+- Propósito y Objetivos, 
+- Palabras clave, 
+- Metodología, 
+- Resultados esperados, 
+- Requisitos de hardware y software, 
+- Bibliografía y documentación.
