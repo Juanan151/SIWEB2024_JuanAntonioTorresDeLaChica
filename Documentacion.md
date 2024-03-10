@@ -113,8 +113,8 @@ Al ingresar al sitio se ve claramente el logo y nombre "Norma Editorial" y cumpl
 ![Sitio Web Oficial de Norma Editorial](/imagenes/ne.png)
 
 Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluación en los siguientes apartados:
-  - **Aspectos generales**: 
-  - **Identidad e Información**: 
+  - **Aspectos generales**: El sitio web cumple el objetivo de dejar claro su función de dar a promocionar las obras de la editorial, el visitante no se queda con una impresión confusa. La URL se distingue con facilidad. Un look and feel bastante agradable.
+  - **Identidad e Información**: Es uno de las mejores sitio web de esta industria dentro de España. Proporciona información detallada sobre las obras. Además, de datos sobre la editorial e información de contacto.
   - **Lenguaje y redacción**: 
   - **Rotulado**: 
   - **Estructura y Navegación**: 
