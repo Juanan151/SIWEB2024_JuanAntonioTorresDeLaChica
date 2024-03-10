@@ -125,12 +125,26 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Accesibilidad**: Se ha diseñado pensando en una legibilidad y contraste adecuados, con fuentes y tamaños de letra que buscan ser accesibles para un espectro amplio de usuarios. No es necesario realizar ninguna instalación adicional y funciona en una variedad de dispositivos y navegadores.
   - **Control y retroalimentación**: La interacción con el sitio web es intuitiva y uniforme, ofreciendo una navegación clara y efectiva con tiempos de carga razonables.
 
+---
+
 ### ANTEPROYECTO
 
-- Titulo: NuevaEditorial.com Catálogo 2023/24 para lectores y contacto para librerías
-- Breve descripción del proyecto: Se nos ha encargado la creación de un sitio web para presentar y organizar las obras de la editorial. 
-- Breve descripción de la organización o institución: Es una nueva empresa del sector. Dirigida por expertos con muchos años de experiencia. Debido a eso saben que es muy importante contar con un sitio web.
-- Tipo de proyecto: Este es un proyecto comercia, se quieren incentivar las ventas.
+- **Titulo** 
+
+NuevaEditorial.com Catálogo 2023/24 para lectores y contacto para librerías
+
+- **Breve descripción del proyecto**
+
+Se nos ha encargado la creación de un sitio web para presentar y organizar las obras de la editorial. 
+
+- **Breve descripción de la organización o institución**
+
+Es una nueva empresa del sector. Dirigida por expertos con muchos años de experiencia. Debido a eso saben que es muy importante contar con un sitio web.
+
+- **Tipo de proyecto**
+
+Este es un proyecto comercia, se quieren incentivar las ventas.
+
 - Propósito y Objetivos, 
 - Palabras clave, 
 - Metodología, 
