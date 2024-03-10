@@ -120,7 +120,7 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Estructura y Navegación**: Ofrece una navegación flexible, facilitando la exploración a través de un menú horizontal y desplazamiento vertical por las diferentes secciones. La orientación dentro del sitio es sencilla debido a la organización de los contenidos. Los enlaces están en perfecto estado, y las imágenes enlazadas proporcionan acceso de forma intuitiva, aunque no se distinguen los enlaces que ya han sido visitados.
   - **Lay-out de la página**: El diseño se enfoca en resaltar los componentes clave, como novedades, manteniendo un ambiente visual ordenado y sin elementos que distraigan. El sitio evita el scroll infinito.
   - **Búsqueda**: El sistema de búsqueda es accesible y cumple bien su función, permitiendo realizar búsquedas detalladas y complejas.
-  - **Elementos multimedia**: Predominan las imágenes, excluyendo el uso de videos o otros tipos de medios. Se percibe un exceso de imágenes en determinadas áreas, como en el calendario de lanzamientos.
-  - **Ayuda**: No se dispone de una sección de ayuda, pero su ausencia no parece ser un inconveniente.
+  - **Elementos multimedia**: Predominan las imágenes, excluyendo el uso de videos o otros tipos de medios. 
+  - **Ayuda**: Este sitio si disponible de una sección de FYQs para solucionar las dudas frecuentes de los visitantes del sitio.
   - **Accesibilidad**: Se ha diseñado pensando en una legibilidad y contraste adecuados, con fuentes y tamaños de letra que buscan ser accesibles para un espectro amplio de usuarios. No es necesario realizar ninguna instalación adicional y funciona en una variedad de dispositivos y navegadores.
   - **Control y retroalimentación**: La interacción con el sitio web es intuitiva y uniforme, ofreciendo una navegación clara y efectiva con tiempos de carga razonables.**:
