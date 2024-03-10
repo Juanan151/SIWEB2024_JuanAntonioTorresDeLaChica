@@ -127,10 +127,10 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
 
 ### ANTEPROYECTO
 
-- Titulo, 
-- Breve descripción del proyecto, 
-- Breve descripción de la organización o institución, 
-- Tipo de proyecto, 
+- Titulo: NuevaEditorial.com Catálogo 2023/24 para lectores y contacto para librerías
+- Breve descripción del proyecto: Se nos ha encargado la creación de un sitio web para presentar y organizar las obras de la editorial. 
+- Breve descripción de la organización o institución: Es una nueva empresa del sector. Dirigida por expertos con muchos años de experiencia. Debido a eso saben que es muy importante contar con un sitio web.
+- Tipo de proyecto: Este es un proyecto comercia, se quieren incentivar las ventas.
 - Propósito y Objetivos, 
 - Palabras clave, 
 - Metodología, 
