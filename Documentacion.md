@@ -54,7 +54,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
   2. Diseño(marzo):
 
 - **Participantes**:
-  - Lectores: Es de crucial importante la opinión del lector quien decide si el sitio cumple su objetivo. Queremos conocer que busca el lector en estos sitios web. [Formulario]()
+  - Lectores: Es de crucial importante la opinión del lector quien decide si el sitio cumple su objetivo. Queremos conocer que busca el lector en estos sitios web. [Formulario](https://forms.gle/svBuT7rygdFVg2637)
   - Profesionales de la industria: Su alta experiencia nos ayudará a darle una mayor profesionalidad al proyecto. El profesional dará su opinión objetiva sobre que debe poseer el sitio. [Formulario]()
 
 - **Planificación**:
