@@ -33,9 +33,8 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 - **Antecedentes**: Se ha impulsado este proyecto con el motivo de darse a conocer al público. Es una nueva editorial, por lo que no es muy conocida actualmente, han decidido abrir un sitio web para poder enseñar su catálogo de libros, ya que van a publicitarse por otros medios.
 
-- **Objetivos**:
-  - Mostrar los datos de los libros del catálogo.
-  - Ser un punto de contacto con las distribuidoras.
+- **Objetivos**: 
+  Los objetivos de la investigación son recabar información que debe contener el sitio web (secciones que debe poseer, contenido que debe mostrar, herramientas que debe dar...), conocer errores comunes en sitios web similares para aprender de ellos, averiguar cual es la mejor forma de organizar el contenido y complacer a los usuarios.
 
 - **Preguntas de investigación**:
   1. ¿Tienen los lectores, los posibles clientes, interés en los sitios web de las editoriales?
