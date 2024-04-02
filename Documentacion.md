@@ -112,9 +112,6 @@ Al no contar aún con una plataforma en línea, la editorial planea lanzar su pr
 
 El lanzamiento del sitio web representa un hito significativo para la editorial, marcando su entrada oficial al mundo digital y ampliando su alcance a un público más amplio. Con esta iniciativa, la editorial no solo busca consolidar su posición como referente en la distribución de manga en español sino también fomentar una comunidad activa y apasionada por esta forma de arte.
 
-
-La empresa se dedica a la traducción y venta de libros extrajeros 
-
 ---
 
 ### EVALUACIÓN HEURÍSTICA
