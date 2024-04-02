@@ -15,7 +15,11 @@
 
 # SIWEB
 
-## PLANIFICACIÓN
+### Descripción general
+
+Este proyecto trata sobre la creación de un sitio web para una nueva editorial creada en España. Se dividirá en tres fases: planificación, diseño e implementación. La editorial se dedica a licenciar obras extranjeras para traducirlas al español y venderlas en España. Su sitio web debe mostrar las obras de la editorial e incentivar su compran tanto por sitio web como en librerías. Necesitará tener una tienda online en el sitio y una sección *home* que muestre las obras más importantes, entre algunas más.
+
+## FASE DE PLANIFICACIÓN
 
 ---
 
