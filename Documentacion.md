@@ -133,7 +133,11 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Elementos multimedia**: Solo posee imágenes, nada de videos, etc. Excepto la imagen que se ve nada más entrar que la considero excesivamente grande, el resto tiene un tamaño y recorte adecuado.
   - **Ayuda**: No posee esta sección. Tampoco la veo necesaria.
   - **Accesibilidad**: Hay un buen contraste entre los colores, por lo que es fácilmente legible. El tamaño del fuente es adecuado a todas las edades e inlusive la tipografía es agradable a la vista. No es necesario la instalación de nada y se puede acceder desde cualquier dispositivo y navegador.
-  - **Control y retroalimentación**: El usuario puede interaccionar con todo lo que se intuye que se puede interaccionar, esto ayuda a saber siempre lo que está pasando en el sitio. Los tiempo de respuesta son razonables.
+  - **Control y retroalimentación**: El usuario puede interaccionar con todo lo que se intuye que se puede interaccionar, esto ayuda a saber siempre lo que está pasando en el sitio. Los tiempos de respuesta son razonables.
+
+##### Mi conclusión para mi sitio.
+
+En mi conclusión, este sitio web en estética es el que más me gusta, me parece muy bueno su rotulado y el constraste de colores en los elementos. Agregaré este aspecto a mi sitio web sin duda. En cuanto a la información que contiene es bastante clásica respecto a lo que suelen contener estos sitios;a la navegación, elementos multimedia y busqueda le ocurre lo mismo. Obviamente, yo también seguiré este patrón. Entre las cosas que no me gustan 
 
 #### [Editorial Ivrea](http://editorialivrea.com/ESP/):
 
