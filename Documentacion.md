@@ -42,7 +42,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
   3. ¿Son los libros de las editoriales con buen sitio web más vendidos?
   4. ¿Dónde suelen buscar el contacto de las editoriales, las distribuidoras?
   5. ¿Qúe diferencias hay sobre la información, que conocen los lectores, de libros con buen sitio web o mal sitio web?
-  6. ¿Queé apartados de estos sitios web son más interesantes?
+  6. ¿Qué apartados de estos sitios web son más interesantes?
   7. ¿En qué crees que afecta tener sitio web?
   8. ¿Qué información se espera encontrar al entrar en estos?
 
@@ -54,8 +54,8 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
   2. Diseño(marzo):
 
 - **Participantes**:
-  - Lectores: Es de crucial importante la opinión del lector quien dedice si el sitio cumple su objetivo. [Formulario]()
-  - Profesionales de la industria: Su alta experiencia nos ayudará a darle una mayor profesionalidad al proyecto. [Formulario]()
+  - Lectores: Es de crucial importante la opinión del lector quien decide si el sitio cumple su objetivo. Queremos conocer que busca el lector en estos sitios web. [Formulario]()
+  - Profesionales de la industria: Su alta experiencia nos ayudará a darle una mayor profesionalidad al proyecto. El profesional dará su opinión objetiva sobre que debe poseer el sitio. [Formulario]()
 
 - **Planificación**:
   - Febrero:
