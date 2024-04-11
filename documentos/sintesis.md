@@ -1,4 +1,4 @@
-_[Documentación principal](/Documentación.md)_
+_[Documentación principal](/Documentacion.md)_
 ---
 
 # Síntesis
