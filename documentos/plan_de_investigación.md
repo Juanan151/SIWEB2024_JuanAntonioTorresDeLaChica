@@ -1,3 +1,6 @@
+_[Documentación principal](/Documentacion.md)_
+---
+
 # PLAN DE INVESTIGACIÓN
 
 - **Título**: “NuevaEditorial.com Catálogo 2023/24 para lectores y contacto para librerías” realizado por Juan Antonio Torres De La Chica, estudiante contratado, jatc0011@red.ujaen.es
