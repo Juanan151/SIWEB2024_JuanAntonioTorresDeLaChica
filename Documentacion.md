@@ -25,25 +25,16 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 - _[Plan de investigación](/documentos/plan_de_investigación.md)_
 
--  _[Entrevista](/documentos/entrevista.md)_
+- _[Entrevista](/documentos/entrevista.md)_
 
--  _[Síntesis](/documentos/sintesis.md)_
+- _[Síntesis](/documentos/sintesis.md)_
 
-# Síntesis
+- _[Evaluación Heurística](/documentos/evaluacion.md)_
 
-La editorial, recién establecida y especializada en la publicación y distribución de mangas japoneses traducidos al español, surge como un ambicioso proyecto destinado a llenar un vacío en el mercado hispanohablante para los aficionados al manga. Con una pasión por la cultura japonesa y una dedicación a la calidad de las traducciones, la editorial se propone ofrecer una puerta de acceso a historias originales y emocionantes que, hasta ahora, habían estado limitadas por barreras idiomáticas.
 
-El equipo detrás de la editorial está compuesto por traductores expertos en japonés, editores con conocimiento profundo del manga, diseñadores gráficos especializados en el estilo visual japonés y profesionales del marketing cultural. Esta combinación de talentos asegura que cada manga no solo sea fiel al original, sino que también resuene con los lectores hispanohablantes.
+# EVALUACIÓN HEURÍSTICA
 
-Al no contar aún con una plataforma en línea, la editorial planea lanzar su primer sitio web. Este paso crucial tiene como objetivo crear un espacio donde los aficionados puedan explorar y descubrir su amplio catálogo de mangas, desde los éxitos de taquilla hasta obras menos conocidas pero igualmente cautivadoras. Además, el sitio buscará ser un punto de encuentro para la comunidad de fans, ofreciendo noticias, reseñas, y eventos relacionados con el mundo del manga.
-
-El lanzamiento del sitio web representa un hito significativo para la editorial, marcando su entrada oficial al mundo digital y ampliando su alcance a un público más amplio. Con esta iniciativa, la editorial no solo busca consolidar su posición como referente en la distribución de manga en español sino también fomentar una comunidad activa y apasionada por esta forma de arte.
-
----
-
-### EVALUACIÓN HEURÍSTICA
-
-#### [Milky Way Ediciones](https://www.milkywayediciones.com/):
+## [Milky Way Ediciones](https://www.milkywayediciones.com/):
 
 El sitio web de la editorial ofrece al entrar en la página oficial un vistazo instantáneo al nombre del sitio "Milky Way Ediciones" y podemos apreciar que trata sobre sus obras literarias licenciadas. En la parte superior vemos que nos encontramos en la sección *Home* y que podemos movernos entre novedades, la tienda, el blog, etc. Este es el método principal de navegación junto con el buscador de libros.
 
@@ -62,11 +53,11 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Accesibilidad**: Hay un buen contraste entre los colores, por lo que es fácilmente legible. El tamaño del fuente es adecuado a todas las edades e inlusive la tipografía es agradable a la vista. No es necesario la instalación de nada y se puede acceder desde cualquier dispositivo y navegador.
   - **Control y retroalimentación**: El usuario puede interaccionar con todo lo que se intuye que se puede interaccionar, esto ayuda a saber siempre lo que está pasando en el sitio. Los tiempos de respuesta son razonables.
 
-##### Mi conclusión para mi sitio.
+### Mi conclusión para mi sitio.
 
 En mi conclusión, este sitio web en estética es el que más me gusta, me parece muy bueno su rotulado y el constraste de colores en los elementos. Agregaré este aspecto a mi sitio web sin duda. En cuanto a la información que contiene es bastante clásica respecto a lo que suelen contener estos sitios; a la navegación, elementos multimedia y busqueda le ocurre lo mismo. Obviamente, yo también seguiré este patrón. Entre las cosas que no me gustan solo puedo destacar el enorme banner de la página de inicio porque no tiene márgenes.
 
-#### [Editorial Ivrea](http://editorialivrea.com/ESP/):
+## [Editorial Ivrea](http://editorialivrea.com/ESP/):
 
 El sitio web ofrece al entrar un visualización de su sistema de navegación junto con el nombre de la editorial "Ivrea" y se aprecia que debe tratarse de una editorial ya que hay palabras como "publicaciones" presentes. Todo el sistema de navegación es el que ya se puede ver al entrar, al principio nos encontramos en la sección *Home*.
 
@@ -85,11 +76,11 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Accesibilidad**: El diseño asegura un contraste óptimo y legibilidad universal, con tipografías y tamaños de letra pensados para ser accesibles a un amplio rango de edades. No requiere instalaciones adicionales y es compatible con diversos dispositivos y navegadores.
   - **Control y retroalimentación**: La interacción con el sitio es intuitiva y coherente, ofreciendo una experiencia de usuario clara y eficiente con tiempos de carga aceptables.
 
-##### Mi conclusión para mi sitio.
+### Mi conclusión para mi sitio.
 
 En resumen, es cierto que el diseño es simple, intuitivo y eficiente. Pero es tan feo, el lay-out es tan desagradable que invita a salir del sitio nada más entras. Su estructura es bastante bueno y esta sí la adoptaré. Algunas ideas como su calendario de próximos lanzamientos que más extenso de lo habitual también me ha gustado mucho, aunque esto no está bajo mi poder ya que depende de la empresa dedicir cuántos lanzamientos anunciar.
 
-#### [Norma Editorial](https://www.normaeditorial.com/)
+## [Norma Editorial](https://www.normaeditorial.com/)
 
 Al ingresar al sitio se ve claramente el logo y nombre "Norma Editorial" y cumple su objetivo de mostrar sus obras literarias ya que lo primero que se logra ver. Su sistema de navegación también es identificable.
 
@@ -108,7 +99,7 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Accesibilidad**: Se ha diseñado pensando en una legibilidad y contraste adecuados, con fuentes y tamaños de letra que buscan ser accesibles para un espectro amplio de usuarios. No es necesario realizar ninguna instalación adicional y funciona en una variedad de dispositivos y navegadores.
   - **Control y retroalimentación**: La interacción con el sitio web es intuitiva y uniforme, ofreciendo una navegación clara y efectiva con tiempos de carga razonables.
 
-##### Mi conclusión para mi sitio.
+### Mi conclusión para mi sitio.
 
 En conclusión, lo mejor de este sitio es la barra de navegación. Esta barra es la que más me inspirará para hacer la mía; es simple, bonito, completa... El resto, nada que destacar que mejoré a los otros sitios evaluados. Aunque también es cierto que tampoco tiene nada negativo en mi opinión.
 
