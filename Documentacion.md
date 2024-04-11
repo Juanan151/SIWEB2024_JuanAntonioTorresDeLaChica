@@ -25,7 +25,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 - _[Plan de investigación](/documentos/plan_de_investigación.md)_
 
-### ENTREVISTA
+-  _[Entrevista](/documentos/entrevista.md)_
 
   1. ¿Tienen los lectores, los posibles clientes, interés en los sitios web de las editoriales?
 
