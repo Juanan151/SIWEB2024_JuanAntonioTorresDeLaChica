@@ -137,7 +137,7 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
 
 ##### Mi conclusión para mi sitio.
 
-En mi conclusión, este sitio web en estética es el que más me gusta, me parece muy bueno su rotulado y el constraste de colores en los elementos. Agregaré este aspecto a mi sitio web sin duda. En cuanto a la información que contiene es bastante clásica respecto a lo que suelen contener estos sitios;a la navegación, elementos multimedia y busqueda le ocurre lo mismo. Obviamente, yo también seguiré este patrón. Entre las cosas que no me gustan 
+En mi conclusión, este sitio web en estética es el que más me gusta, me parece muy bueno su rotulado y el constraste de colores en los elementos. Agregaré este aspecto a mi sitio web sin duda. En cuanto a la información que contiene es bastante clásica respecto a lo que suelen contener estos sitios; a la navegación, elementos multimedia y busqueda le ocurre lo mismo. Obviamente, yo también seguiré este patrón. Entre las cosas que no me gustan solo puedo destacar el enorme banner de la página de inicio porque no tiene márgenes.
 
 #### [Editorial Ivrea](http://editorialivrea.com/ESP/):
 
@@ -158,6 +158,10 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Accesibilidad**: El diseño asegura un contraste óptimo y legibilidad universal, con tipografías y tamaños de letra pensados para ser accesibles a un amplio rango de edades. No requiere instalaciones adicionales y es compatible con diversos dispositivos y navegadores.
   - **Control y retroalimentación**: La interacción con el sitio es intuitiva y coherente, ofreciendo una experiencia de usuario clara y eficiente con tiempos de carga aceptables.
 
+##### Mi conclusión para mi sitio.
+
+En resumen, es cierto que el diseño es simple, intuitivo y eficiente. Pero es tan feo, el lay-out es tan desagradable que invita a salir del sitio nada más entras. Su estructura es bastante bueno y esta sí la adoptaré. Algunas ideas como su calendario de próximos lanzamientos que más extenso de lo habitual también me ha gustado mucho, aunque esto no está bajo mi poder ya que depende de la empresa dedicir cuántos lanzamientos anunciar.
+
 #### [Norma Editorial](https://www.normaeditorial.com/)
 
 Al ingresar al sitio se ve claramente el logo y nombre "Norma Editorial" y cumple su objetivo de mostrar sus obras literarias ya que lo primero que se logra ver. Su sistema de navegación también es identificable.
@@ -176,6 +180,10 @@ Atendiendo al modelo heurístico de Hassan Montero podemos dividir la evaluació
   - **Ayuda**: Este sitio si disponible de una sección de FYQs para solucionar las dudas frecuentes de los visitantes del sitio.
   - **Accesibilidad**: Se ha diseñado pensando en una legibilidad y contraste adecuados, con fuentes y tamaños de letra que buscan ser accesibles para un espectro amplio de usuarios. No es necesario realizar ninguna instalación adicional y funciona en una variedad de dispositivos y navegadores.
   - **Control y retroalimentación**: La interacción con el sitio web es intuitiva y uniforme, ofreciendo una navegación clara y efectiva con tiempos de carga razonables.
+
+##### Mi conclusión para mi sitio.
+
+En conclusión, lo mejor de este sitio es la barra de navegación. Esta barra es la que más me inspirará para hacer la mía; es simple, bonito, completa... El resto, nada que destacar que mejoré a los otros sitios evaluados. Aunque también es cierto que tampoco tiene nada negativo en mi opinión.
 
 ---
 
