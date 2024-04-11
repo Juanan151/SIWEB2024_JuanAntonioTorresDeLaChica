@@ -23,7 +23,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 ---
 
-### [PLAN DE INVESTIGACIÓN](documentos/Plan de investigación.md)
+### [PLAN DE INVESTIGACIÓN](/documentos/plan_de_investigación.md)
 
 - **Título**: “NuevaEditorial.com Catálogo 2023/24 para lectores y contacto para librerías” realizado por Juan Antonio Torres De La Chica, estudiante contratado, jatc0011@red.ujaen.es
 
