@@ -242,7 +242,7 @@ Los formularios al final fueron más rebundantes que otra cosa. Sus respuestas n
 
 Visitar los sitios de otras empresas fue lo que más me ayudo, implementaré lo que ya mencioné en las conclusiones.
 
-Las herramientas usaré las que se explican en las asignaturas de la carrera.
+Las herramientas, usaré las que se explican en las asignaturas de la carrera.
 
 ---
 
