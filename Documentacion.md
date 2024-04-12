@@ -39,3 +39,4 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 ## DISEÑO
 
+- _[Diseño conceptual](/documentos/diseño_conceptual.md)_
