@@ -11,4 +11,4 @@ Para abstraerlo y simplificarlo, los principales grupos que tendrán los mismos 
 
 Los metadatos del sitio web serán los de los productos: ISBN, autor, géneros, fecha de lanzamiento...
 
-Para poder visualizar todo esto mejor utilizaremos la técnica de card sorting:
+Para poder visualizar todo esto mejor utilizaremos la técnica de card sorting: _[Mi Card Sorting](https://app.useberry.com/t/CEYkplZ6SqZVHq/)_
