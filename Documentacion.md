@@ -41,3 +41,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 - **AI**:
   - _[Diseño conceptual](/documentos/diseño_conceptual.md)_
+  - _[Contexto]()_
+  - _[Personas]()_
+  - _[Modelado del Usuario]()_
+  - _[Contenido]()_
