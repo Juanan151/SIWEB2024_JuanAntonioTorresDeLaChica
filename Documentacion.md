@@ -44,3 +44,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
   - _[Personas]()_
   - _[Modelado del Usuario]()_
   - _[Contenido]()_
+    
+- _[Contenidos]()_
+
+- _[Navegación]()_
