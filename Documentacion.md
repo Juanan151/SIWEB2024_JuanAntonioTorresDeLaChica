@@ -24,12 +24,11 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 ## FASE DE PLANIFICACIÓN
 
 - _[Plan de investigación](/documentos/plan_de_investigación.md)_
-
-- _[Entrevista](/documentos/entrevista.md)_
-
-- _[Síntesis](/documentos/sintesis.md)_
+  - _[Entrevista](/documentos/entrevista.md)_
 
 - _[Evaluación heurística](/documentos/evaluacion.md)_
+
+- _[Síntesis](/documentos/sintesis.md)_
 
 - _[Anteproyecto](/documentos/anteproyecto.md)_
 
@@ -37,7 +36,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 ---
 
-## DISEÑO
+## FASE DE DISEÑO
 
 - **AI**:
   - _[Diseño conceptual](/documentos/diseño_conceptual.md)_
