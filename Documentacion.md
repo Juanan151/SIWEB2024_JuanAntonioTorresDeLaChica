@@ -38,15 +38,15 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 ## FASE DE DISEÑO
 
-- **AI**:
+- **Diseño de la AI**:
   - _[Diseño conceptual](/documentos/diseño_conceptual.md)_
   - _[Contexto](/documentos/contexto.md)_
   - _[Personas y modelado de Usuario](/documentos/personas.md)_
   - _[Contenido](/documentos/contenidos.md)_
     
-- _[Contenidos]()_
+- _[Diseño de los Contenidos]()_
 
-- _[Navegación]()_
+- _[Diseño de la Navegación]()_
 
 ## FASE DE IMPLEMENTACIÓN
 
