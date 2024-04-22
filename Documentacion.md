@@ -47,3 +47,6 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 - _[Contenidos]()_
 
 - _[Navegación]()_
+
+## FASE DE IMPLEMENTACIÓN
+
