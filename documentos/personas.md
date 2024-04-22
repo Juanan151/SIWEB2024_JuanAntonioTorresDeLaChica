@@ -20,3 +20,10 @@ Además, anteriormente utilizamos el **Card Sorting** a petición de la profesor
   4. Contacto y nosotros: distribuidoras registradas, información de la empresa, información de contacto e información legal.
   5. Foro: discusiones, comentarios y preguntas y respuestas.
   6. Carrito: aceptar compra, dirección de envío y formas de pago.
+
+Tras esta investigación vamos a utilizar el método de las **Personas** para comunicar los resultados:
+  1. *El habitual*: Entra todos las semanas a pasearse por el sitio a revisar las novedades y compra de vez en cuando.
+  2. *El ideal*: Todos los meses entra compra todo lo nuevo y revisa revisa el sitio buscando obras antiguas.
+  3. *El ocasional*: Entra una vez cada mucho tiempo sin rumbo fijo, sin objetivo. Quizás compra para algún regalo. Estos no son relevantes.
+  4. *El que quiere más*: Entra al foro a pedir que se licencia alguna obra que le ha gustado mucho por internet y quiere que se traiga a España.
+  5. *El activo*: Entra a las discusiones sobre los libros y pone reseñas sobre estos para incentivar a los usuarios indecisos.
