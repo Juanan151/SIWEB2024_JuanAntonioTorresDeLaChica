@@ -1,4 +1,4 @@
-# PROYECTO DE PRÁCTICAS
+# PROYECTO DE PRÁCTICAS -> "NuevaEditorial"
 **Alumno:** Juan Antonio Torres De La Chica (jatc0011@red.ujaen.es)
 
 **Asignaturas:** 
