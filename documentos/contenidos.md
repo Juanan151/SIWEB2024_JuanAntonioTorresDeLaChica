@@ -88,3 +88,58 @@ El contenido a incluir para el sitio web lo extraeremos de la **investigación d
 Utilizaremos el siguiente diagrama:
 
 ![Estructura general del sitio web](/imagenes/estruct.png)
+
+## Definición Detallada del Contenido
+
+**1. Formato de Contenido:**
+   - **Texto:** Posts de blog, descripciones de libros, biografías de autores.
+   - **Imágenes:** Portadas de libros, fotos de autores, gráficos de colecciones.
+   - **Vídeo:** Entrevistas con autores, trailers de libros, contenido detrás de cámaras.
+   - **Audio:** Podcasts editoriales, fragmentos de audiolibros.
+
+**2. Longitud:**
+   - **Breve:** Entradas de blog de 300-500 palabras, descripciones de libros de alrededor de 150-250 palabras.
+   - **Larga:** Artículos en profundidad de más de 1000 palabras, reseñas extensas.
+
+**3. Audiencias:**
+   - **General:** Contenido orientado a un público amplio, como las novedades y las listas de más vendidos.
+   - **Específica:** Contenido especializado para nichos, como reseñas profundas, foros de discusión y solicitudes de licencias.
+
+**4. Tareas:**
+   - **Informar:** Sobre libros y autores, eventos y lanzamientos.
+   - **Convencer:** Descripciones persuasivas para impulsar la venta de libros.
+   - **Enganchar:** Foros y secciones de reseñas para fomentar la participación de la comunidad.
+
+**5. Precisión de los Contenidos Actuales:**
+   - **Revisión:** Verificar la precisión de la información de los libros y los perfiles de autores.
+   - **Actualización:** Asegurar que la información de contacto, legal y las preguntas frecuentes estén actualizadas.
+
+**6. Frecuencia de Cambio:**
+   - **Alta Frecuencia:** Novedades, promociones y contenido del blog que requieren actualizaciones semanales o diarias.
+   - **Baja Frecuencia:** Información sobre la editorial, políticas de privacidad, que son más estáticas.
+
+**7. Estructura del Contenido:**
+   - **Estructurada:** Información de libros y autores que seguirá un formato predefinido.
+   - **No Estructurada:** Contenido creativo como posts de blog y foros de discusión que permiten más libertad.
+
+### Establecimiento de Prioridades para el Lanzamiento
+
+**1. Contenido Crítico para el Lanzamiento:**
+   - Información básica de los libros, como títulos y autores.
+   - Información legal y de contacto.
+   - Funcionalidades esenciales de la tienda, como catálogo y carrito de compras.
+
+**2. Fases de Lanzamiento:**
+   - **Fase 1:** Lanzamiento del núcleo del sitio con las páginas de inicio, catálogo y carrito de compras.
+   - **Fase 2:** Incorporación de contenido adicional como blogs, foros y material multimedia.
+   - **Fase 3:** Optimización y expansión basada en el feedback de los usuarios y análisis de uso.
+
+**3. Criterios de Priorización:**
+   - **Impacto en el Usuario:** ¿Qué contenido generará más valor o satisfacción para el usuario?
+   - **Objetivos Comerciales:** ¿Qué contenido impulsará más las ventas o promocionará mejor la editorial?
+   - **Recursos Disponibles:** ¿Qué contenido puede crearse y mantenerse dentro de las capacidades actuales?
+
+**4. Estrategia de Contenido Post-Lanzamiento:**
+   - Plan de actualización continua para el contenido dinámico.
+   - Estrategia de SEO para asegurar la visibilidad y el tráfico orgánico.
+   - Estrategias de contenido basadas en métricas de interacción y conversiones para ajustar y mejorar.
