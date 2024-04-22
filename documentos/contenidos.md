@@ -39,3 +39,7 @@ Tras una larga investigación del tema, de muchos sitios web con la misma finali
   - Enlaces claros y accesibles en el pie de página o encabezado del sitio.
   - Formulario de contacto con campos para nombre, correo electrónico y mensaje.
   - Información de contacto como dirección física, teléfono y correo electrónico.
+
+## Qué incluir
+
+El contenido a incluir para el sitio web lo extraeremos de la **investigación de usuario** y **una lluvia de ideas**.
