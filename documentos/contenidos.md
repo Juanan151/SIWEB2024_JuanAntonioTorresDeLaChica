@@ -82,3 +82,9 @@ El contenido a incluir para el sitio web lo extraeremos de la **investigación d
 - **Blog Editorial:** Con artículos de interés, entrevistas a autores y contenido detrás de cámaras sobre el proceso editorial.
 - **Eventos Virtuales:** Anuncios de lecturas en vivo, Q&A con autores y webinars sobre literatura.
 - **Integración con Redes Sociales:** Para compartir contenido y aumentar la interacción y visibilidad.
+
+## Método de comunicación al equipo
+
+Utilizaremos el siguiente diagrama:
+
+![Estructura general del sitio web](/imagenes/estruct.png)
