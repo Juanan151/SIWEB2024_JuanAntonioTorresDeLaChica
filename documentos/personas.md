@@ -14,4 +14,9 @@ La empresa me ha pedido un sitio que se parezca a los más relevantes al sector 
 Esto será una investigación cualitativa, usaremos mucho la observación del usuario y las entrevistas. La observación nos ha llevado a conclusiones precipitadas al darnos cuenta de un patrón muy habitual en casi todos los usuarios. El patrón es el siguiente: Un usuario entra al sitio web y aparece en la sección *home* la cual desliza hacia abajo hasta el fondo buscando algo interesante. Si encuentra algo interesante, hace click en él y acaba en una página de contenido ya que todos los enlaces de la sección llevan a contenido del libro en cuestión; si no encuentra nada interesante va directo a la tienda a mirar las últimas novedades más detalladamente ahora con sus precios a la vista. Pasa algunas páginas y si nada le llama la atención se sale del sitio web.
 
 Además, anteriormente utilizamos el **Card Sorting** a petición de la profesora para la investigación. Los resultados obtenidos nos han ayudado a realizar un punto de partida para las categorías y elementos del sitio web.
-  1. Libro:
+  1. Libro: titulo, autor, descripción, género, fecha de publicación y ISBN.
+  2. Tienda: colección, enviar al carrito y catálogo.
+  3. Home: sugerencias, últimas novedades, más populares y próximos lanzamientos.
+  4. Contacto y nosotros: distribuidoras registradas, información de la empresa, información de contacto e información legal.
+  5. Foro: discusiones, comentarios y preguntas y respuestas.
+  6. Carrito: aceptar compra, dirección de envío y formas de pago.
