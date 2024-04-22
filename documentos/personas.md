@@ -11,4 +11,7 @@ La cantidad que queremos investigar pues dependerá del tamaño del proyecto. En
 
 La empresa me ha pedido un sitio que se parezca a los más relevantes al sector por lo que no es necesario investigarlos a ellos, tampoco hay intranet. Por lo que investigar a los usuario potenciales es lo más importante. Estoy bastante metido en el sector por lo que tengo muchos amigos usuarios de estos sitios web, tiraré de ellos para la investigación.
 
-Esto será una investigación cualitativa, usaremos mucho la observación del usuario y las entrevistas. 
+Esto será una investigación cualitativa, usaremos mucho la observación del usuario y las entrevistas. La observación nos ha llevado a conclusiones precipitadas al darnos cuenta de un patrón muy habitual en casi todos los usuarios. El patrón es el siguiente: Un usuario entra al sitio web y aparece en la sección *home* la cual desliza hacia abajo hasta el fondo buscando algo interesante. Si encuentra algo interesante, hace click en él y acaba en una página de contenido ya que todos los enlaces de la sección llevan a contenido del libro en cuestión; si no encuentra nada interesante va directo a la tienda a mirar las últimas novedades más detalladamente ahora con sus precios a la vista. Pasa algunas páginas y si nada le llama la atención se sale del sitio web.
+
+Además, anteriormente utilizamos el **Card Sorting** a petición de la profesora para la investigación. Los resultados obtenidos nos han ayudado a realizar un punto de partida para las categorías y elementos del sitio web.
+  1. Libro:
