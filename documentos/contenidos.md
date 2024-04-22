@@ -43,3 +43,42 @@ Tras una larga investigación del tema, de muchos sitios web con la misma finali
 ## Qué incluir
 
 El contenido a incluir para el sitio web lo extraeremos de la **investigación de usuario** y **una lluvia de ideas**.
+
+**1. Página de Inicio (Home):**
+- **Sugerencias Personalizadas:** Basadas en el comportamiento de navegación del usuario o historial de compra.
+- **Últimas Novedades:** Mostrar los lanzamientos más recientes con prominencia.
+- **Más Populares:** Destacar libros que son tendencia o tienen altas valoraciones.
+- **Próximos Lanzamientos:** Un apartado para generar expectativa sobre futuras publicaciones.
+- **Scroll Infinito o Paginación:** Permitir a los usuarios desplazarse por contenido interesante ininterrumpidamente o a través de múltiples páginas.
+
+**2. Catálogo de Libros (Tienda):**
+- **Colecciones Destacadas:** Agrupar libros por colecciones temáticas o por autores.
+- **Función "Enviar al Carrito":** Opción clara y accesible para agregar libros directamente desde el catálogo.
+- **Filtros Avanzados de Búsqueda:** Para buscar por título, autor, género, fecha de publicación, etc.
+
+**3. Detalle de Libro:**
+- **Información Completa:** Incluir título, autor, descripción, género, fecha de publicación y ISBN.
+- **Reseñas y Valoraciones:** Permitir a los usuarios leer y escribir reseñas.
+- **Recomendaciones Relacionadas:** Sugerir libros similares o de interés basándose en el libro actualmente visto.
+
+**4. Página de Contacto y Nosotros:**
+- **Información de la Empresa:** Historia, misión, valores y compromiso editorial.
+- **Distribuidoras Registradas:** Información sobre dónde encontrar los libros físicamente.
+- **Información de Contacto:** Formulario de contacto y datos de contacto directo.
+- **Información Legal:** Avisos legales, política de privacidad y términos y condiciones.
+
+**5. Foro:**
+- **Discusiones Activas:** Destacar temas de interés actual.
+- **Sección de Preguntas y Respuestas (Q&A):** Donde los usuarios pueden hacer preguntas específicas.
+- **Solicitudes de Licencias:** Un área donde los usuarios pueden sugerir títulos para ser licenciados en España.
+
+**6. Carrito de Compra:**
+- **Proceso de Compra Simplificado:** Desde la selección hasta el pago, diseñar pasos intuitivos y claros.
+- **Opciones de Pago:** Múltiples formas de pago (tarjeta, PayPal, transferencia, etc.).
+- **Dirección de Envío:** Formulario fácil de usar para la introducción de datos de envío.
+
+**Extras Generados en la Lluvia de Ideas:**
+- **sistema de notificaciones**: Enviar notificaciones personalizadas para los tipos de personas como El habitual, El activo, etc.
+- **Blog Editorial:** Con artículos de interés, entrevistas a autores y contenido detrás de cámaras sobre el proceso editorial.
+- **Eventos Virtuales:** Anuncios de lecturas en vivo, Q&A con autores y webinars sobre literatura.
+- **Integración con Redes Sociales:** Para compartir contenido y aumentar la interacción y visibilidad.
