@@ -7,12 +7,6 @@ Tras una larga investigación del tema, de muchos sitios web con la misma finali
 
 ## Inventario parcial
 
-Claro, aquí tienes un inventario parcial para el sitio web de la editorial que queremos crear desde cero:
-
----
-
-### Inventario Parcial del Sitio Web de la Editorial
-
 **1. Página de Inicio:**
 - Descripción: Página principal del sitio que da la bienvenida a los visitantes y ofrece una visión general de la editorial y sus obras destacadas.
 - Elementos:
