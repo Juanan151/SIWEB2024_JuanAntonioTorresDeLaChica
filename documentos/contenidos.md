@@ -143,3 +143,57 @@ Utilizaremos el siguiente diagrama:
    - Plan de actualización continua para el contenido dinámico.
    - Estrategia de SEO para asegurar la visibilidad y el tráfico orgánico.
    - Estrategias de contenido basadas en métricas de interacción y conversiones para ajustar y mejorar.
+
+## Organización
+
+Vamos a estructurar el contenido del sitio web de la editorial utilizando un sistema de clasificación por **Tema**:
+
+### Página de Inicio (Home)
+- **Novedades Editoriales:** Presentación de los últimos lanzamientos, enfocando en los temas de actualidad.
+- **Recomendados:** Selección de libros recomendados por tema, como literatura contemporánea, ciencia y tecnología, educación, etc.
+- **Populares:** Libros más populares o discutidos en el foro, categorizados por tema.
+- **Eventos Destacados:** Próximos eventos o lanzamientos organizados por temas literarios o campañas temáticas.
+
+### Catálogo de Libros (Tienda)
+- **Categorías por Tema:**
+  - Ficción (con subtemas como romance, misterio, fantasía, etc.).
+  - No Ficción (con subtemas como biografías, ciencias, educación, etc.).
+  - Profesional y Académico (para temas especializados).
+- **Búsqueda Avanzada:** Permite a los usuarios filtrar los libros por temas específicos o subtemas.
+
+### Foro
+- **Discusiones por Género:** Áreas específicas para debatir sobre diferentes géneros y temas literarios.
+- **Clubes de Lectura Temáticos:** Grupos de discusión centrados en temas específicos o géneros de libros.
+- **Preguntas y Respuestas:** Para consultas generales y recomendaciones basadas en temas o intereses específicos.
+- **Solicitudes de Usuarios:** Donde los usuarios pueden solicitar libros o temas nuevos para que la editorial considere.
+
+### Contacto y Nosotros
+- **Sobre la Editorial:**
+  - Narrar la trayectoria de la editorial y cómo ha evolucionado con los diferentes temas y tendencias literarias.
+  - Misión y valores que destacan la dedicación a ciertos géneros o áreas temáticas.
+  
+- **Equipo Editorial:**
+  - Presentar al equipo organizado por áreas de especialización temática, mostrando cómo cada miembro contribuye a los diversos géneros literarios que la editorial maneja.
+
+- **Compromiso con los Lectores y Autores:**
+  - Explicar el compromiso de la editorial con el desarrollo y la promoción de temas literarios importantes para sus lectores y autores.
+
+- **Información de Contacto:**
+  - Detallar los canales de contacto según temas de interés: soporte para pedidos, consultas editoriales, derechos y permisos, y otros asuntos generales.
+
+### Carrito de Compras
+- **Selección de Productos:**
+  - Organización de los productos en el carrito según temas o géneros para facilitar la revisión de los artículos antes de la compra.
+
+- **Recomendaciones Temáticas:**
+  - Al revisar el carrito, mostrar recomendaciones de libros relacionados con los temas de los productos seleccionados para fomentar compras adicionales.
+
+- **Resumen de Pedido:**
+  - Desglosar los pedidos por temas, permitiendo a los usuarios ver rápidamente cómo sus compras se alinean con sus intereses de lectura.
+
+- **Proceso de Pago:**
+  - Guiar a los usuarios a través del proceso de pago con opciones para modificar la selección de temas (por ejemplo, agregar o eliminar libros de un tema específico).
+
+- **Actualizaciones Post-Compra:**
+  - Ofrecer actualizaciones y comunicaciones post-compra centradas en los temas de los libros comprados, como eventos relacionados, lanzamientos de nuevos títulos en los mismos temas, etc.
+
