@@ -21,7 +21,7 @@ Además, anteriormente utilizamos el **Card Sorting** a petición de la profesor
   5. Foro: discusiones, comentarios y preguntas y respuestas.
   6. Carrito: aceptar compra, dirección de envío y formas de pago.
 
-Tras esta investigación vamos a utilizar el método de las **Personas** para comunicar los resultados:
+Tras esta investigación vamos a utilizar el método de las Personas y Escenarios, es decir, **el modelado de usuario** para comunicar los resultados:
   1. *El habitual*: Entra todos las semanas a pasearse por el sitio a revisar las novedades y compra de vez en cuando.
   2. *El ideal*: Todos los meses entra compra todo lo nuevo y revisa revisa el sitio buscando obras antiguas.
   3. *El ocasional*: Entra una vez cada mucho tiempo sin rumbo fijo, sin objetivo. Quizás compra para algún regalo. Estos no son relevantes.
