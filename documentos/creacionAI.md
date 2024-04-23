@@ -17,9 +17,9 @@ Mi sitio web es básicamente una tienda virtual de libros, asi que es fácil ded
    - Son las páginas que muestran conjuntos de productos (en este caso, libros) donde los usuarios pueden realizar acciones específicas como leer descripciones, ver reseñas, y realizar compras.
    - **Ejemplo:** Una página de galería para la categoría "Romance" mostraría todos los libros de romance disponibles, cada uno con opciones para obtener más detalles, leer reseñas, y añadir al carrito de compras. Basícamente, lo que encontrarías tras filtrar
 
-A lo largo de toda la documentación se ha hecho referencia a muchas de las etiquedas que se van a usar en el sitio web, pero ahora es momento de elegir la mejor forma de nombrarlas. También es hora de ir referiendose a los libros como **manga** ya que la editorial se especializa en manga japonés, un tipo de comic.
-
 ## Etiquetas
+
+A lo largo de toda la documentación se ha hecho referencia a muchas de las etiquetas que se van a usar en el sitio web, pero ahora es momento de elegir la mejor forma de nombrarlas. También es hora de ir referiendose a los libros como **manga** ya que la editorial se especializa en manga japonés, un tipo de comic.
 
 ### Etiquetas de Navegación Principal
 Las etiquetas principales incluyen Inicio, Catálogo, Novedades, Más Vendidos, Próximos Lanzamientos, Géneros, Foro y  Contacto y nosotros. Estas etiquetas ayudan a los usuarios a orientarse en el sitio y acceder rápidamente a las secciones más importantes.
