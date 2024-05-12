@@ -40,20 +40,19 @@ La página de la tienda está organizada para facilitar la búsqueda y el descub
 **Barra de Navegación Superior:**
 - **Consistencia en la Navegación:** La barra de navegación se mantiene constante en la parte superior de todas las páginas, incluyendo la tienda, permitiendo a los usuarios acceder fácilmente a otras secciones del sitio o volver a la página principal en cualquier momento.
   
-**Página de Foro:**
-- **Navegación en la Página de Foro:** 
+**Navegación en la Página de Foro:**
+
   - Los usuarios pueden navegar entre diferentes hilos de discusión disponibles o iniciar uno nuevo.
   - Cada comentario o hilo de discusión se muestra en forma de tarjeta (`card`), donde los usuarios pueden interactuar mediante respuestas.
   - La barra de navegación superior permite a los usuarios volver a las principales áreas del sitio en cualquier momento.
 
-**Página de Contacto y Nosotros:**
-- **Navegación en la Página de Contacto y Nosotros:**
+**Navegación en la Página de Contacto y Nosotros:**
+
   - Esta página contiene múltiples secciones informativas que se presentan en forma de tarjetas o listas, incluyendo ubicación, información de contacto, y datos sobre el equipo editorial.
   - Se incluye un formulario de contacto directo que permite a los usuarios enviar mensajes específicos al equipo editorial, que luego pueden navegar de regreso a otras áreas del sitio utilizando la barra de navegación horizontal.
   - La integración de un mapa interactivo puede ofrecer navegación adicional dentro del mismo sitio para ubicaciones físicas de la editorial.
 
-**Página de Contenido de Volumen:**
-- **Navegación en la Página de Contenido de Volumen:**
+**Navegación en la Página de Contenido de Volumen:**
   - Esta página es accesible a través de la Tienda o el Carrusel de la página de inicio, donde cada volumen de manga tiene un enlace "Info" que lleva a su respectiva página de contenido.
   - La página proporciona detalles completos del volumen seleccionado, como imágenes de la portada, sinopsis, detalles del autor, ISBN, y más.
   - Botones interactivos permiten a los usuarios añadir el volumen al carrito, leer un avance del mismo, o navegar a la compra.
