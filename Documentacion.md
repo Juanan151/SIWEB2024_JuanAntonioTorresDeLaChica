@@ -54,17 +54,17 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
   - _[Primera prueba de Usabilidad](/documentos/usabilidad.md)_
   - _[Segunda prueba de Usabilidad](/documentos/usabilidad2.md)_
 - **Documentación del código**:
-  -_[index.html]()_
-  -_[ind.js]()_
-  -_[tienda.html]()_
-  -_[tienda.js]()_
-  -_[content.html]()_
-  -_[content.js]()_
-  -_[foro.html]()_
-  -_[foro.js]()_
-  -_[contact.html]()_
-  -_[contact.js]()_
-  -_[compra.js]()_
+  - _[index.html]()_
+  - _[ind.js]()_
+  - _[tienda.html]()_
+  - _[tienda.js]()_
+  - _[content.html]()_
+  - _[content.js]()_
+  - _[foro.html]()_
+  - _[foro.js]()_
+  - _[contact.html]()_
+  - _[contact.js]()_
+  - _[compra.js]()_
   
 
 ## IMPLEMENTACIÓN
