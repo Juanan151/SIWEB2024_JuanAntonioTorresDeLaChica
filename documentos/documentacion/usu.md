@@ -1,3 +1,6 @@
+_[Documentación principal](/Documentacion.md)_
+--- 
+
 ### Gestión de Sesión de Usuario en un Sitio Web
 
 #### Funcionalidad General
