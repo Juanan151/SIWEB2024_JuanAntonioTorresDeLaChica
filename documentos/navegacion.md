@@ -58,3 +58,13 @@ La página de la tienda está organizada para facilitar la búsqueda y el descub
   - Botones interactivos permiten a los usuarios añadir el volumen al carrito, leer un avance del mismo, o navegar a la compra.
   - Una barra lateral puede estar presente para permitir la navegación rápida a otros volúmenes o series relacionadas.
   - Los usuarios pueden volver a la Tienda o a la página principal usando la barra de navegación horizontal.
+
+### WIREFRAMES
+
+**Barra de navegación:**
+
+![](/imagenes/w1 (1).jpg)
+
+![](/imagenes/w1 (2).jpg)
+![](/imagenes/w1 (3).jpg)
+![](/imagenes/w1 (4).jpg)
