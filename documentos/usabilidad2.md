@@ -55,7 +55,9 @@
 - El HTML5 y CSS3 del sitio web se validaron utilizando el validador del W3C para asegurar que el código cumple con los estándares actuales.
 - Se realizó un test de accesibilidad web utilizando herramientas como TAW para garantizar que el sitio es accesible.
 
-### Conclusión
+### Distintos navegadores y Responsive
 
-Este proceso exhaustivo asegura que el sitio web no solo es funcional y estéticamente agradable, sino también robusto, accesible y fácil de usar. Los documentos resultantes de cada fase proporcionan una base sólida para futuras mejoras y mantenimiento, y aseguran que el sitio web puede ser eficientemente actualizado y modificado según las necesidades futuras.
+**Chrome, Microsoft Egde y Brave:**
+
+ 
 
