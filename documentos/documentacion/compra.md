@@ -1,3 +1,6 @@
+_[Documentación principal](/Documentacion.md)_
+--- 
+
 ### Documentación del Script de Gestión del Carrito de Compras
 
 #### Funciones y Eventos:
