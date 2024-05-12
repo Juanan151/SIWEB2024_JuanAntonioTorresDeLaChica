@@ -78,4 +78,4 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 ## ENLACE AL SITIO WEB
 
-- _[NuevaEditorial](Juanan151.github.io)_
+- _[NuevaEditorial](https://juanan151.github.io/)_
