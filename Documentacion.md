@@ -48,6 +48,8 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 - _[Diseño de la Navegación](/documentos/navegacion.md)_
 
+--- 
+
 ## FASE DE IMPLEMENTACIÓN
 
 - **Pruebas de usabilidad**:
@@ -65,8 +67,15 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
   - _[contact.html](/documentos/documentacion/contact.md)_
   - _[contact.js](/documentos/documentacion/contact2.md)_
   - _[compra.js](/documentos/documentacion/compra.md)_
-  
 
+  ---
+  
 ## IMPLEMENTACIÓN
 
 - _[Carpeta de archivos de html, js...](/sitioweb)_
+
+---
+
+## ENLACE AL SITIO WEB
+
+- _[NuevaEditorial](Juanan151.github.io)_
