@@ -61,3 +61,7 @@
 
  ![](/imagenes/sitio2.png)
 
+**Móvil:**
+
+ ![](/imagenes/sitio5.png)
+
