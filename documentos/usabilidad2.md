@@ -4,7 +4,35 @@
 - Se llevó a cabo una segunda prueba de usabilidad con dos miembros internos de la organización y un usuario externo. Se les pidió que realizaran tareas específicas como encontrar un producto usando los filtros, localizar la editorial en el mapa, y utilizar el carrusel.
 
 **Documentación de la Prueba:**
-- Se documentaron todas las interacciones, incluyendo tiempos de respuesta, facilidad de uso, y cualquier dificultad o confusión enfrentada por los usuarios.
+
+  **Participantes:**
+- **Usuario Interno 1:** Persona con experiencia moderada en tecnología.
+- **Usuario Interno 2:** Persona con conocimiento avanzado en navegación web.
+- **Usuario Externo:** Persona sin conocimientos previos del sitio y con experiencia básica en tecnología.
+
+**Metodología de la Prueba:**
+- Los participantes fueron instruidos para realizar una serie de tareas que reflejan el uso común del sitio, incluyendo:
+  - Navegar al carrusel y usar sus controles para visualizar distintos productos.
+  - Utilizar los filtros de búsqueda para encontrar productos específicos y usar el botón de restablecimiento.
+  - Localizar información de contacto y usar el mapa interactivo para encontrar la ubicación de la editorial.
+  - Realizar una compra simulada de un producto y utilizar el proceso de checkout.
+  
+**Documentación de las Tareas y Observaciones:**
+1. **Navegación por el Carrusel:**
+   - **Observaciones:** Usuario Externo tuvo dificultades iniciales comprendiendo los iconos de control pero se adaptó rápidamente después de una breve exploración.
+   - **Feedback:** Usuario Interno 1 sugirió agregar etiquetas de texto a los iconos de control para mejorar la claridad.
+
+2. **Uso de Filtros de Búsqueda:**
+   - **Observaciones:** Todos los usuarios utilizaron efectivamente los filtros y apreciaron el botón de restablecimiento.
+   - **Feedback:** Usuario Interno 2 recomendó que los filtros aplicados se muestren en un área visible para recordar al usuario qué filtros están activos.
+
+3. **Interacción con el Mapa Interactivo:**
+   - **Observaciones:** Usuario Externo encontró valiosa la adición del mapa pero comentó que los textos eran algo pequeños en dispositivos móviles.
+   - **Feedback:** Sugerencias de aumentar el tamaño de la fuente para mejorar la legibilidad en dispositivos con pantallas pequeñas.
+
+4. **Proceso de Compra y Checkout:**
+   - **Observaciones:** La navegación fue fluida y todos los usuarios completaron la compra sin inconvenientes.
+   - **Feedback:** Usuario Interno 1 propuso incluir una estimación de tiempo de entrega en la página de checkout para mejorar la información proporcionada al cliente.
 
 ### Análisis de Resultados
 
@@ -13,7 +41,16 @@
 - Se identificaron pequeñas áreas de mejora, como ajustes adicionales en la legibilidad de los textos.
 
 **Documentación de Resultados:**
-- Se elaboraron documentos con los resultados, análisis, y capturas de pantalla de la sesión de prueba, incluyendo comentarios específicos de los usuarios.
+
+**Resultados:**
+- La prueba reveló que las mejoras implementadas después de la primera revisión tuvieron un impacto positivo en la experiencia del usuario. La funcionalidad adicional y las mejoras en la interfaz fueron bien recibidas.
+- El feedback específico sobre la interfaz del carrusel y la visibilidad de los filtros activos proporcionó puntos claros para ajustes menores que podrían mejorar aún más la usabilidad.
+
+**Cambios en el Diseño Propuestos:**
+- **Carrusel:** Implementar etiquetas textuales para los controles.
+- **Filtros de Búsqueda:** Mostrar un resumen de filtros activos en una ubicación prominente.
+- **Mapa Interactivo:** Ajustar la tipografía y el diseño para mejorar la visibilidad en dispositivos móviles.
+- **Checkout:** Añadir información sobre tiempos de entrega estimados.
 
 ### Validaciones y Comprobaciones
 
@@ -28,3 +65,4 @@
 ### Conclusión
 
 Este proceso exhaustivo asegura que el sitio web no solo es funcional y estéticamente agradable, sino también robusto, accesible y fácil de usar. Los documentos resultantes de cada fase proporcionan una base sólida para futuras mejoras y mantenimiento, y aseguran que el sitio web puede ser eficientemente actualizado y modificado según las necesidades futuras.
+
