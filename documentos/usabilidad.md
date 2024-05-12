@@ -1,7 +1,6 @@
 _[Documentación principal](/Documentacion.md)_
 ---
 
-
 # Primera Prueba de Usabilidad
 
 ### 1. Selección de Tecnologías y Herramientas
@@ -37,4 +36,20 @@ Para diseñar y desarrollar un sitio web moderno y funcional, es esencial elegir
 **Documentación de la Prueba**:
 - Se documentarán todas las interacciones, comentarios y dificultades observadas durante la prueba de usabilidad. Esto incluirá la navegación entre páginas, la facilidad de uso de los filtros de la tienda y la funcionalidad del formulario de contacto.
 
+### 4. Análisis de la Prueba de Usabilidad y Ajustes
 
+**Resultados de la Prueba de Usabilidad:**
+- **Participantes**: Se llevó a cabo una prueba de usabilidad con tres usuarios potenciales del sitio, dos de los cuales eran miembros de la organización con un conocimiento básico de tecnología y uno era un usuario externo sin conocimientos previos del sitio.
+- **Metodología**: Se pidió a los usuarios que realizaran varias tareas, incluyendo navegar a la página de un producto específico desde la página de inicio, utilizar los filtros de búsqueda en la página de la tienda, y enviar una consulta a través de la página de contacto.
+- **Observaciones**:
+  - Los usuarios encontraron el carrusel de la página de inicio visualmente atractivo pero indicaron que algunos de los controles no eran lo suficientemente intuitivos.
+  - La funcionalidad de los filtros fue bien recibida; sin embargo, algunos usuarios expresaron confusión sobre cómo restablecer los filtros aplicados.
+  - En la página de contacto, los usuarios sugirieron que un mapa interactivo sería útil para localizar físicamente la editorial.
+
+**Análisis y Conclusiones:**
+- La navegación general del sitio fue calificada como intuitiva, pero los detalles sobre la interacción específica con el carrusel y los filtros indicaron la necesidad de mejoras en la interfaz de usuario.
+- La solicitud de un mapa interactivo en la página de contacto indica una oportunidad para mejorar la experiencia del usuario proporcionando información geográfica directamente accesible, pero debido a problemas con el tiempo de entrega no se implementará.
+
+**Cambios en el Diseño:**
+- **Carrusel de Imágenes**: Se aumentará el tamaño de los botones de navegación y se añadirán etiquetas textuales para mejorar la comprensibilidad y accesibilidad.
+- **Filtros de Búsqueda**: Se hicieron los filtros más interactivos y con mayor resaltado al ser activados.
