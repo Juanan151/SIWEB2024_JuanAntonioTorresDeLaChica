@@ -63,8 +63,16 @@ La página de la tienda está organizada para facilitar la búsqueda y el descub
 
 **Barra de navegación:**
 
-![](/imagenes/w1 (1).jpg)
+![](/imagenes/w1(3).jpg)
 
-![](/imagenes/w1 (2).jpg)
-![](/imagenes/w1 (3).jpg)
-![](/imagenes/w1 (4).jpg)
+**Tienda:**
+
+![](/imagenes/w1(2).jpg)
+
+**Inicio:**
+
+![](/imagenes/w1(4).jpg)
+
+**Página de contenido:**
+
+![](/imagenes/w1(1).jpg)
