@@ -65,7 +65,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
   - _[foro.html](/documentos/documentacion/foro.md)_
   - _[foro.js](/documentos/documentacion/foro2.md)_
   - _[contact.html](/documentos/documentacion/contact.md)_
-  - _[contact.js](/documentos/documentacion/contact2.md)_
+  - _[usu.js](/documentos/documentacion/usu.md)_
   - _[compra.js](/documentos/documentacion/compra.md)_
 
   ---
