@@ -27,9 +27,21 @@ Para diseñar y desarrollar un sitio web moderno y funcional, es esencial elegir
 
 **Documentación de Implementación**:
 - Se capturarán pantallas de la página principal, las páginas de producto, la página de tienda y la página de contacto para documentar visualmente el resultado de la implementación.
+
+**Inicio:**
+
   ![Inicio](/imagenes/sitio1.png)
+
+**Tienda:**
+
   ![Tienda](/imagenes/sitio2.png)
+
+**Página de contenido:**
+
   ![Página de contenido](/imagenes/sitio3.png)
+
+**Contacto:**
+
   ![Contacto](/imagenes/sitio4.png)
   
 
