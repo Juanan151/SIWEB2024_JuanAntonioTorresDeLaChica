@@ -13,8 +13,7 @@
 **Metodología de la Prueba:**
 - Los participantes fueron instruidos para realizar una serie de tareas que reflejan el uso común del sitio, incluyendo:
   - Navegar al carrusel y usar sus controles para visualizar distintos productos.
-  - Utilizar los filtros de búsqueda para encontrar productos específicos y usar el botón de restablecimiento.
-  - Localizar información de contacto y usar el mapa interactivo para encontrar la ubicación de la editorial.
+  - Utilizar los filtros de búsqueda para encontrar productos específicos.
   - Realizar una compra simulada de un producto y utilizar el proceso de checkout.
   
 **Documentación de las Tareas y Observaciones:**
@@ -25,12 +24,8 @@
 2. **Uso de Filtros de Búsqueda:**
    - **Observaciones:** Todos los usuarios utilizaron efectivamente los filtros y apreciaron el botón de restablecimiento.
    - **Feedback:** Usuario Interno 2 recomendó que los filtros aplicados se muestren en un área visible para recordar al usuario qué filtros están activos.
-
-3. **Interacción con el Mapa Interactivo:**
-   - **Observaciones:** Usuario Externo encontró valiosa la adición del mapa pero comentó que los textos eran algo pequeños en dispositivos móviles.
-   - **Feedback:** Sugerencias de aumentar el tamaño de la fuente para mejorar la legibilidad en dispositivos con pantallas pequeñas.
-
-4. **Proceso de Compra y Checkout:**
+    
+3. **Proceso de Compra y Checkout:**
    - **Observaciones:** La navegación fue fluida y todos los usuarios completaron la compra sin inconvenientes.
    - **Feedback:** Usuario Interno 1 propuso incluir una estimación de tiempo de entrega en la página de checkout para mejorar la información proporcionada al cliente.
 
@@ -49,8 +44,6 @@
 **Cambios en el Diseño Propuestos:**
 - **Carrusel:** Implementar etiquetas textuales para los controles.
 - **Filtros de Búsqueda:** Mostrar un resumen de filtros activos en una ubicación prominente.
-- **Mapa Interactivo:** Ajustar la tipografía y el diseño para mejorar la visibilidad en dispositivos móviles.
-- **Checkout:** Añadir información sobre tiempos de entrega estimados.
 
 ### Validaciones y Comprobaciones
 
