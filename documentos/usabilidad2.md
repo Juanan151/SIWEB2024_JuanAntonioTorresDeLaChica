@@ -48,7 +48,7 @@
 ### Validaciones y Comprobaciones
 
 **Compatibilidad entre Navegadores y Responsividad:**
-- Se realizaron pruebas en navegadores como Chrome, Firefox, Safari y Edge para asegurar compatibilidad.
+- Se realizaron pruebas en navegadores como Chrome, Brave y Edge para asegurar compatibilidad.
 - Se documentó la responsividad con capturas de pantalla en diferentes tamaños de pantalla y dispositivos.
 
 **Validación de Estándares Web:**
