@@ -1,3 +1,6 @@
+_[Documentación principal](/Documentacion.md)_
+--- 
+
 ### Documentación de Scripts de Tienda en Línea
 
 #### Evento de Clic en el Contenedor de Productos
