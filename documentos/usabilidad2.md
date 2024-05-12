@@ -9,8 +9,8 @@
 ### Análisis de Resultados
 
 **Resultados y Análisis:**
-- Los usuarios reportaron una mejora significativa en la experiencia de uso gracias a los cambios implementados. El mapa interactivo fue especialmente bien recibido.
-- Se identificaron pequeñas áreas de mejora, como ajustes adicionales en la legibilidad de los textos sobre el mapa en dispositivos móviles.
+- Los usuarios reportaron una mejora significativa en la experiencia de uso gracias a los cambios implementados.
+- Se identificaron pequeñas áreas de mejora, como ajustes adicionales en la legibilidad de los textos.
 
 **Documentación de Resultados:**
 - Se elaboraron documentos con los resultados, análisis, y capturas de pantalla de la sesión de prueba, incluyendo comentarios específicos de los usuarios.
