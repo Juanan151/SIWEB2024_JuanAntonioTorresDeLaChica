@@ -46,7 +46,7 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
     
 - _[Creación de la AI](/documentos/creacionAI.md)_
 
-- _[Diseño de la Navegación]()_
+- _[Diseño de la Navegación](/documentos/navegacion.md)_
 
 ## FASE DE IMPLEMENTACIÓN
 
