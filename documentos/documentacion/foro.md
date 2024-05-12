@@ -1,3 +1,6 @@
+_[Documentación principal](/Documentacion.md)_
+--- 
+
 ### Estructura General del Documento HTML
 
 **Doctype y Configuración de Lenguaje:**
