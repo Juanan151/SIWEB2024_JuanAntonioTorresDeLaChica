@@ -63,7 +63,7 @@ La página de la tienda está organizada para facilitar la búsqueda y el descub
 
 **Barra de navegación:**
 
-![](/imagenes/w1(3).jpg)
+![](/imagenes/w1(4).jpg)
 
 **Tienda:**
 
@@ -71,7 +71,7 @@ La página de la tienda está organizada para facilitar la búsqueda y el descub
 
 **Inicio:**
 
-![](/imagenes/w1(4).jpg)
+![](/imagenes/w1(3).jpg)
 
 **Página de contenido:**
 
