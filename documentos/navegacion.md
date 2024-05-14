@@ -59,7 +59,7 @@ La página de la tienda está organizada para facilitar la búsqueda y el descub
   - Una barra lateral puede estar presente para permitir la navegación rápida a otros volúmenes o series relacionadas.
   - Los usuarios pueden volver a la Tienda o a la página principal usando la barra de navegación horizontal.
 
-### WIREFRAMES
+### WIREFRAMES (Skecths)
 
 **Barra de navegación:**
 
