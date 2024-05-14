@@ -1,4 +1,3 @@
-
 # Cambios a la arquitectura.
 
 1. Para mejorar la navegación en el sitio web se ha decidido añadir a las páginas de contenido etiquetas tipo botón. Estas etiquetas son los géneros del volumen de la página. Al clickear estos botones te redirige a la tienda para ver los volumenes de ese género.
