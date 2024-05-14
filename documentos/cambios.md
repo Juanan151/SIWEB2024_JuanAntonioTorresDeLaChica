@@ -11,7 +11,7 @@ Se elimina **foro**, se divide **Contacto y nosotros** para separar la informaci
 
 5. A la sección **manga** se le va a añadir un filtro de A-Z. Se va a quitar el filtro de demografía y se va a subir a la barra de navegación comp un desplegable de **manga**.
 
-6. La página de inicio se ve muy desaprovechada. Vamos a añadir información de la empresa al principio de esta. Al tratarse de una nueva editorial la información será interesante para el usuario del mundillo.
+6. La página de inicio se ve muy desaprovechada. Vamos a añadir una pequeña descripción de la empresa al principio de esta. Al tratarse de una nueva editorial la información será interesante para el usuario del mundillo.
 
-7. Vamos a mejorar el footer, añadiremos enlaces por demografía a **manga**, información de contacto e información legal.
+7. Vamos a mejorar el footer, añadiremos enlaces por demografía, información de contacto e información legal.
 
