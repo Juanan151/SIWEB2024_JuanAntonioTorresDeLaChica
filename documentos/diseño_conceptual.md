@@ -14,3 +14,13 @@ Algo que destacar es que diferenciaré el carrito y la tienda, ya que cada uno t
 Los metadatos del sitio web serán los de los productos: ISBN, autor, géneros, fecha de lanzamiento...
 
 Para poder visualizar todo esto mejor utilizaremos la técnica de card sorting: _[Mi Card Sorting](https://app.useberry.com/t/FIKwIeyDJ9qnvw/)_
+
+
+## Resultados del Card Sorting
+
+![](q1.png)
+![](q2.png)
+![](q3.png)
+![](q4.png)
+![](q5.png)
+![](q6.png)
