@@ -3,7 +3,7 @@
 1. Para mejorar la navegación en el sitio web se ha decidido añadir a las páginas de contenido etiquetas tipo botón. Estas etiquetas son los géneros del volumen. Al clickear estos botones te redirige a la tienda para ver los volumenes con ese género.
 
 2. La barra de navegación fue un absoluto fracaso, por lo que se ha decidido darle una vuelta completa a las categorías de ña barra.
-Se elimina **foro**, se divide **Contacto y nosotros** para separar la información de empresa la empresa y los distribuidores y se añaden nuevas categorías como **ediciones limitadas**, **One-Shot** y **Colecciones terminadas**.
+Se elimina **foro**, se divide **Contacto y nosotros** para separar la información de la empresa y los distribuidores, y se añaden nuevas categorías como **ediciones limitadas**, **One-Shot** y **Colecciones terminadas**.
 
 3. La página de foro al ser eliminada deja colgando los comentarios de los volumenes por lo que se ha decidido añadir estos comentarios a la página de contenido de cada volumen.
 
