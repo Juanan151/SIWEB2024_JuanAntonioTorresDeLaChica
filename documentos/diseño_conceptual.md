@@ -18,9 +18,9 @@ Para poder visualizar todo esto mejor utilizaremos la técnica de card sorting: 
 
 ## Resultados del Card Sorting
 
-![](q1.png)
-![](q2.png)
-![](q3.png)
-![](q4.png)
-![](q5.png)
-![](q6.png)
+![](/imagenes/q1.png)
+![](/imagenes/q2.png)
+![](/imagenes/q3.png)
+![](/imagenes/q4.png)
+![](/imagenes/q5.png)
+![](/imagenes/q6.png)
