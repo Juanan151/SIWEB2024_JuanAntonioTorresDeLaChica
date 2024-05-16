@@ -15,3 +15,18 @@ Se elimina **foro**, se divide **Contacto y nosotros** para separar la informaci
 
 7. Vamos a mejorar el footer, añadiremos enlaces por demografía, información de contacto e información legal.
 
+8. Vamos a añadir botones de géneros recomendados en la página de inicio que te envién a la tienda con ese filtro.
+
+9. Añadir título a las páginas en el mismo lugar para todas.
+
+10. Maquetar mejor el boton de ordenar de la tienda.
+
+11. Cambiar color de los botones para mantener una estética consistente con una misma paleta de colores.
+
+12. Cambiar la etiqueta **Más** de la barra de navegación por **La Editorial** que tiene más significado.
+
+13. Añadir botón de **Ir a tienda** en la página de contenido.
+
+14. Se elimina la categoría **Home**, ahora para ir a la página de inicio hay que pulsar el logo.
+
+
