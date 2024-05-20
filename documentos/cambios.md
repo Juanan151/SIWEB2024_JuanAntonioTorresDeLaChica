@@ -29,4 +29,10 @@ Se elimina **foro**, se divide **Contacto y nosotros** para separar la informaci
 
 14. Se elimina la categoría **Home**, ahora para ir a la página de inicio hay que pulsar el logo.
 
+## RESULTADOS
 
+![](/imagenes/n1.png)
+![](/imagenes/n2.png)
+![](/imagenes/n3.png)
+![](/imagenes/n4.png)
+![](/imagenes/n5.png)
