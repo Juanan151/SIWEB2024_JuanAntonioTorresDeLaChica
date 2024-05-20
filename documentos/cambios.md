@@ -36,3 +36,4 @@ Se elimina **foro**, se divide **Contacto y nosotros** para separar la informaci
 ![](/imagenes/n3.png)
 ![](/imagenes/n4.png)
 ![](/imagenes/n5.png)
+![](/imagenes/n6.png)
