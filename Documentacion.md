@@ -76,11 +76,16 @@ Este proyecto trata sobre la creación de un sitio web para una nueva editorial 
 
 ---
 
+
+# CAMBIOS TRAS LAS PRESENTACIONES 
+
+- _[Cambios](/documentos/cambios.md)_
+
+---
+
 ## ENLACE AL SITIO WEB
 
 - _[NuevaEditorial](https://juanan151.github.io/)_
 
 
-# CAMBIOS TRAS LAS PRESENTACIONES 
 
-- _[Cambios](/documentos/cambios.md)_
