@@ -3,6 +3,10 @@ _[Documentación principal](/Documentacion.md)_
 
 # NAVEGACIÓN
 
+#### LA NAVEGACIÓN SUFRUDIDO GRANDES CAMBIOS (PARA MÁS INFORMACIÓN REVISAR -> [cambios](/documentos/cambios.md))
+
+Los skecths han sufrido enormes cambios, la barra de nabegación es totalmente distinta, por ejemplo.
+
 **Barra de Navegación:**
 - **Tipo y Estructura:** La barra de navegación es de tipo **horizontal**, extendiéndose a lo ancho de la parte superior de todas las páginas del sitio web. Esta estructura permite una fácil accesibilidad y visibilidad de las opciones de navegación desde cualquier página.
 - **Elementos Incluidos:**
@@ -58,6 +62,7 @@ La página de la tienda está organizada para facilitar la búsqueda y el descub
   - Botones interactivos permiten a los usuarios añadir el volumen al carrito, leer un avance del mismo, o navegar a la compra.
   - Una barra lateral puede estar presente para permitir la navegación rápida a otros volúmenes o series relacionadas.
   - Los usuarios pueden volver a la Tienda o a la página principal usando la barra de navegación horizontal.
+
 
 ### WIREFRAMES (Skecths)
 
