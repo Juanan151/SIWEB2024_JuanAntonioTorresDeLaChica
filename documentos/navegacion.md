@@ -1,11 +1,12 @@
 _[Documentación principal](/Documentacion.md)_
 ---
 
-# NAVEGACIÓN
 
 #### LA NAVEGACIÓN SUFRUDIDO GRANDES CAMBIOS (PARA MÁS INFORMACIÓN REVISAR -> [cambios](/documentos/cambios.md))
 
 Los skecths han sufrido enormes cambios, la barra de nabegación es totalmente distinta, por ejemplo.
+
+# NAVEGACIÓN
 
 **Barra de Navegación:**
 - **Tipo y Estructura:** La barra de navegación es de tipo **horizontal**, extendiéndose a lo ancho de la parte superior de todas las páginas del sitio web. Esta estructura permite una fácil accesibilidad y visibilidad de las opciones de navegación desde cualquier página.
